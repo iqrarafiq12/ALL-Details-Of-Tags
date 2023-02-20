@@ -111,7 +111,7 @@ body {
   text-align: center;
   font-size: 10px;
   margin-top: -370px;
-  margin-left: 790px;
+  margin-left: 590px;
 }
 
 h1 {
@@ -142,7 +142,7 @@ h2{
   font-size: 17px;
 }
 .list-adding-image{
-  margin-left: 800px;
+  margin-left: 700px;
   margin-top: -300px;
 }
 ol li{
@@ -155,7 +155,7 @@ ol li{
   height: 100%;
   width: 800px;
   border: 1px solid #C1AEFC;
-  margin-left: 300px;
+  margin-left: 100px;
   margin-top: 80px;
 }
 h2{
@@ -176,15 +176,19 @@ tr:nth-child(even){
 }
 
 /* LOGIN FORM */
-#email{
-  width: 600px;
-  height:30px;
-  margin-left:10px;
+.login-form{
+  width:1200px;
+  height:20px;
+  text-align: center;
   margin-top:40px;
+}
+#email{
+  width: 400px;
+  height:30px;
   border: 1px solid #C1AEFC;
 }
 #password{
-  width: 500px;
+  width: 400px;
   height:30px;
   border:1px solid #C1AEFC;
 }
@@ -202,7 +206,7 @@ button{
   height: 200px;
   background-color: #C1AEFC;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 20px;
   display: flex;
 }
 .column2{
